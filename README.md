@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Anton and I'm a C# developer</h2>
+<h1 align="center">Hello there 👋 I'm Anton Todorov</h1>
+<h3 align="center">Junior .NET developer</h3>
 
 ###
 
@@ -9,6 +10,9 @@
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rkb6h93ikkdqxyf9jg65612lzg84wot88h1v8xu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -43,4 +47,8 @@
   </a>
 </div>
 
+<h3 align="left">👩‍💻  About Me</h3>
+
 ###
+
+<p align="left">📚 I'm currently learning C# language<br> 🎯 Goals: To become a full-stack developer<br> 📧 Reach me anytime: antontodorov321@gmail.com<br> ✌️ Love to writing code and learning new features<br>🎲 Fun fact: Love playing cards<br>💪  My motto: Once you stop learning you start dying!</p>
