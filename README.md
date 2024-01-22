@@ -51,4 +51,4 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C# language<br> 🎯 Goals: To become a full-stack developer<br> 📧 Reach me anytime: antontodorov321@gmail.com<br> ✌️ Love to writing code and learning new features<br>🎲 Fun fact: Love playing cards<br>💪  My motto: Once you stop learning you start dying!</p>
+<p align="left">📚 I'm currently learning C# language<br> 🎯 Goals: To become a full-stack developer<br> 📧 Reach me anytime: <a href="https://antontodorov321@gmail.com">antontodorov321@gmail.com</a><br> ✌️ Love to writing code and learning new features<br>🎲 Fun fact: Love playing cards<br>💪  My motto: Once you stop learning you start dying!</p>
