@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left"> 👨🏻‍💻 I’m currently working on <a href="https://github.com/AntonTodorov321/React-Estate-App">Estate App</a><br>
+<p align="left"> 👨🏻‍💻 I’m currently working on <a href="https://github.com/AntonTodorov321/Data-Structures-Fundamentals">Data Structures Fundamentals</a><br>
 🏆 Goals: To become a full-stack developer<br> 
 📧 Reach me anytime: <a href="https://antontodorov321@gmail.com">antontodorov321@gmail.com</a><br> 
 🎲 Fun fact: Love playing cards<br>
