@@ -1,5 +1,11 @@
-<h1 align="center">Hello there 👋 I'm Anton Todorov</h1>
-<h3 align="center">Junior .NET developer</h3>
+<h2 align="center">Hello there 👋 I'm Anton Todorov</h2>
+<h3 align="center">Junior Full Stack Developer</h3>
+
+</br>
+
+> I am an enthusiastic and driven junior full stack developer with the ability to build end-to-end web applications. For the backend, I use C#, Entity Framework Core, and ASP.NET Core. On the frontend, I work with React, JavaScript and TypeScript, integrating REST APIs and utilizing modern React features to create dynamic user interfaces. I am committed to learning every day, embracing new technologies, and continually improving my skills as a developer.
+
+</br>
 
 ###
 
@@ -12,35 +18,51 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rkb6h93ikkdqxyf9jg65612lzg84wot88h1v8xu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages</h3>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="vite logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+</div>
 
+</br>
+
+<h3 >
+  <img src="https://img.icons8.com/?size=100&id=sm8CzMKNcuhi&format=png&color=000000" height="20" alt="tools"/>
+  <span>Tools</span>
+</h3>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
 ###
@@ -58,8 +80,15 @@
 
 ###
 
-<p align="left"> 👨🏻‍💻 I’m currently working on <a href="https://github.com/AntonTodorov321/Algorithms-Fundamentals">Algorithms Fundamentals</a><br>
-🏆 Goals: To become a full-stack developer<br> 
-📧 Reach me anytime: <a href="https://antontodorov321@gmail.com">antontodorov321@gmail.com</a><br> 
-🎲 Fun fact: Love playing cards<br>
-💪  My motto: Once you stop learning you start dying!</p>
+<p align="left"> 
+  👨🏻‍💻 ** Currently Learning ** Algorithms in C# and strengthening my fundamentals.  
+  👨🏻‍💻 I’m currently learning algorithms with C#, working on <br>
+  🏆 Goals: To become the best version on myself<br> 
+  🎲 Fun fact: Love playing cards<br>
+  💪 My motto: Once you stop learning you start dying!
+</p>
+
+- 👨🏻‍💻 **Currently Learning:** Algorithms in C# and strengthening my <a href="https://github.com/AntonTodorov321/Algorithms-Fundamentals">Algorithms Fundamentals</a>.  
+- 🏆 **Goal:** To become the best version of myself as a developer and continuously grow my skills.  
+- 🎲 **Fun fact:** I love playing cards.  
+- 💪 **Motto:** "Once you stop learning, you start dying!"  
