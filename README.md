@@ -78,17 +78,8 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left"> 
-  👨🏻‍💻 ** Currently Learning ** Algorithms in C# and strengthening my fundamentals.  
-  👨🏻‍💻 I’m currently learning algorithms with C#, working on <br>
-  🏆 Goals: To become the best version on myself<br> 
-  🎲 Fun fact: Love playing cards<br>
-  💪 My motto: Once you stop learning you start dying!
-</p>
-
-- 👨🏻‍💻 **Currently Learning:** Algorithms in C# and strengthening my <a href="https://github.com/AntonTodorov321/Algorithms-Fundamentals">Algorithms Fundamentals</a>.  
-- 🏆 **Goal:** To become the best version of myself as a developer and continuously grow my skills.  
+- 👨🏻‍💻 **Currently learning:** Deepening my knowledge of algorithms with C# and strengthening core programming <a href="https://github.com/AntonTodorov321/Algorithms-Fundamentals">fundamentals.</a>
+- 🏆 **Goal:** To become the best version of myself as a developer and continuously grow my skills.
+- 🤝 **Open to collaborate on:** Full-stack web applications and innovative projects using ASP.NET Core and React.  
 - 🎲 **Fun fact:** I love playing cards.  
 - 💪 **Motto:** "Once you stop learning, you start dying!"  
