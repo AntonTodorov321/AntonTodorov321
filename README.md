@@ -81,5 +81,5 @@
 - 👨🏻‍💻 **Currently learning:** Deepening my knowledge of algorithms with C# and strengthening core programming <a href="https://github.com/AntonTodorov321/Algorithms-Fundamentals">fundamentals.</a>
 - 🏆 **Goal:** To become the best version of myself as a developer and continuously grow my skills.
 - 🤝 **Open to collaborate on:** Full-stack web applications and innovative projects using ASP.NET Core and React.  
-- 🎲 **Fun fact:** I love playing cards.  
+- 🎲 **Fun fact:** I love playing board games.  
 - 💪 **Motto:** "Once you stop learning, you start dying!"  
